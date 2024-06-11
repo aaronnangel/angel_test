@@ -6,7 +6,7 @@ test repo for NCEAS coreR
 * Practice Git workflow
 
 ## Creator
-* Aaron is an environmental professional working in the Collaborative Science and Peer Review Unit in the Science Program at the [Delta Stewardship Council](https://deltacouncil.ca.gov/). 
+Aaron is an environmental professional working in the Collaborative Science and Peer Review Unit in the Science Program at the [Delta Stewardship Council](https://deltacouncil.ca.gov/). 
 
 ## Git Workflow
 - Pull changes from collaborator  
