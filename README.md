@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # NCEAS Training Repository
-=======
-# this is a conflicting change
->>>>>>> f0d53e82a022c57b8ea65ee1a1031b7ebf371bf4
 test repo for NCEAS coreR
 
 ## Purpose
