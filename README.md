@@ -7,3 +7,5 @@ test repo for NCEAS coreR
 
 ## Creator
 * Aaron is an environmental professional working in the Collaborative Science and Peer Review Unit in the Science Program at the [Delta Stewardship Council](https://deltacouncil.ca.gov/). 
+
+## Git Workflow
