@@ -1,4 +1,4 @@
-# angel_test
+# NCEAS Training Repository
 test repo for NCEAS coreR
 
 ## Purpose
